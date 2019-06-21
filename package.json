@@ -11,5 +11,9 @@
   "license": "ISC",
   "bin": {
     "create-prettierrc-eslintrc": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/walterhwan/create-prettierrc-eslintrc"
   }
 }
