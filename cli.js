@@ -28,7 +28,8 @@ const prettierrcFileName = '.prettierrc'
 const prettierrc = {
   "trailingComma": "es5",
   "singleQuote": true,
-  "semi": true
+  "arrowParens": "always",
+  "semi": false
 }
 const prettierrcString = JSON.stringify(prettierrc, null, 2)
 
