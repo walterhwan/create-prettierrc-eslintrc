@@ -19,7 +19,7 @@ const eslintrc = {
   "rules": {
     "no-console": "off",
     "strict": ["error", "global"],
-    "curly": "warn"
+    "curly": "off"
   }
 }
 const eslintrcString = JSON.stringify(eslintrc, null, 2)
